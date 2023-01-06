@@ -4,7 +4,7 @@
 <div style="display: flex; gap: 20px">
   <div>
     <h3 align="left">Connect with me:</h3>
-    <p align="left">
+    <p align="left" style="background-color: white;">
       <a
         href="https://www.linkedin.com/in/steven-faria-12691317a/"
         target="blank"
@@ -101,7 +101,7 @@
       </a>
     </p>
     <h3 align="left">Test languages:</h3>
-    <p align="left">
+    <p align="left" style="background-color: white;">
       <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
@@ -120,7 +120,7 @@
       </a>
     </p>
     <h3 align="left">Back End Languages:</h3>
-    <p align="left">
+    <p align="left" style="background-color: white;">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
