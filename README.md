@@ -29,4 +29,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fariasteven&show_icons=true&locale=en&layout=compact&theme=dracula" alt="fariasteven" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyamashiro&show_icons=true&locale=en&layout=compact&theme=dracula" alt="fariasteven" /></p>
