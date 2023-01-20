@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **stevenfaria.gusmao@gmail.com**
 
+- 📝 My portfolio [Steven Faria](https://reliable-pegasus-1ad5c2.netlify.app/) 
+
 <h3>💻 Technologies</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
