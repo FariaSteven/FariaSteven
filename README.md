@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **stevenfaria.gusmao@gmail.com**
 
-- 📝 My portfolio [Steven Faria](https://reliable-pegasus-1ad5c2.netlify.app/) 
+- 📝 My portfolio  **[Steven Faria](https://reliable-pegasus-1ad5c2.netlify.app/)**
 
 <h3>💻 Technologies</h3>
 <p align="left"> 
