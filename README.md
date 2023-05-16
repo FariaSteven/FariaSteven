@@ -31,4 +31,4 @@
 </p>
 
 
-<p align="left"><img src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FariaSteven&theme=react&line_height=40&hide=css&layout=compact](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FariaSteven&theme=react&line_height=40&hide=css&layout=compact)"/></p>
+<p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FariaSteven&theme=react&line_height=40&hide=css&layout=compact"/></p>
