@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Beautiful Form](https://github.com/FariaSteven/form)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Java With Spring**
 
 - 📫 How to reach me **stevenfaria.gusmao@gmail.com**
 
@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <h3>💬 Social</h3>
