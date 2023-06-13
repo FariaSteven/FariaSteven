@@ -1,14 +1,32 @@
-<h1 align="left">Hi 👋, I'm Steven</h1>
-<h3 align="left">Trying to make the difference through my code.</h3>
 
-- 🔭 I’m currently working on [Beautiful Form](https://github.com/FariaSteven/form)
+  <img 
+     align="right" 
+     src="https://github-readme-stats.vercel.app/api?username=FariaSteven&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
+     height="150" 
+     width="300"
+     alt="stats graph"  
+  />
+  </br>
+  <h1 align="left">Hi 👋, I'm Steven</h1>
+  
+  <h3 align="left">Trying to make the difference through my code.</h3>
+<img 
+     align="right" 
+     src="https://streak-stats.demolab.com?user=FariaSteven&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" 
+     height="150" 
+     width="300"
+     alt="streak graph"
+   /> 
+<div align="left">
+  - 🔭 I’m currently working on [Beautiful Form](https://github.com/FariaSteven/form)
 
-- 🌱 I’m currently learning **Java With Spring**
+  - 🌱 I’m currently learning **Java With Spring**
 
-- 📫 How to reach me **stevenfaria.gusmao@gmail.com**
+  - 📫 How to reach me **stevenfaria.gusmao@gmail.com**
 
-- 📝 My portfolio  **[Steven Faria](https://reliable-pegasus-1ad5c2.netlify.app/)**
-
+  - 📝 My portfolio  **[Steven Faria](https://reliable-pegasus-1ad5c2.netlify.app/)**
+  - 
+</div>
 <h2>💻 Technologies</h2>
 <h3>🎨 Front End</h3>
 <p align="left">
@@ -45,11 +63,5 @@
   <a href="https://www.linkedin.com/in/steven-faria-12691317a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <p align="left">Hello World!!</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FariaSteven&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FariaSteven&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=FariaSteven&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
