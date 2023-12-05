@@ -61,3 +61,5 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
 </p>
 </p>
+
+![FariaSteven Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FariaSteven&layout=compact&theme=radical)
