@@ -39,14 +39,14 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white"/>
 </p>
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" height="25" /> Backend libraries</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" height="25" /> Backend libraries</h3>
 <p>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white"/>
 </p>
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="25" height="25" /> Database</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="25" height="25" /> Database</h3>
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white"/>
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"/>
 </p>
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test Tube" width="25" height="25" /> Test</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test Tube" width="25" height="25" /> Test</h3>
 <p>
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=white"/>
     <img src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white"/>
