@@ -1,6 +1,6 @@
 ![headerNew2](./headerNew2.png)
 
-<h1 style="display: flex; align-items: baseline"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Know me better</h2>
+<h3 style="display: flex; align-items: baseline"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Know me better</h3>
 <p>
     <a href="https://www.linkedin.com/in/steven-faria-12691317a/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/>
@@ -10,7 +10,7 @@
     </a>
 </p>
 
-<h1 style="display: flex; align-items: baseline"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Techs</h2>
+<h3 style="display: flex; align-items: baseline"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Techs</h3>
 <p>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="25" height="25" /> Languages</h3>
 <p width="100%">
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
 </p>
-<h1 style="display: flex; align-items: baseline"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Frontend libraries</h3>
+<h3 style="display: flex; align-items: baseline"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Frontend libraries</h3>
 <p>
     <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Chakra-%234ED1C5.svg?logo=chakraui&logoColor=white"/>
