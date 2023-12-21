@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-100000.svg?logo=Rabbitmq&logoColor=white&color=FFB300"/>
 </p>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="30" height="30" /> Database</h3>
 <p>
