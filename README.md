@@ -21,16 +21,13 @@
 </p>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="30" height="30" /> Frontend libraries</h3>
 <p>
-    <img src="https://img.shields.io/badge/Chakra-%234ED1C5.svg?logo=chakraui&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Angular.js-%23E23237.svg?logo=Angular&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jquery-%230769AD.svg?logo=jquery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white"/>
     <img src="https://img.shields.io/badge/React.js-%2320232a.svg?logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React--Native-%2320232a.svg?logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Angular.js-%23E23237.svg?logo=Angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Chakra-%234ED1C5.svg?logo=chakraui&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white"/>
     <img src="https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white"/>
 </p>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="30" height="30" /> Backend libraries</h3>
 <p>
@@ -45,8 +42,8 @@
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="30" height="30" /> Database</h3>
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
 
 </p>
@@ -54,6 +51,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Cypress-%23E5E5E5?logo=cypress&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Jest-%23C21325?logo=jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Junit-%23C21325?logo=Junit&logoColor=white"/>
     <img src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
 </p>
