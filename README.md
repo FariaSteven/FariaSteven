@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/steven-faria-12691317a/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://steven-faria.netlify.app/" target="_blank">
+    <a href="steven-os.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/My_Site-2ea44f?logo=gamebanana&logoColor=white""/>
     </a>
 </p>
